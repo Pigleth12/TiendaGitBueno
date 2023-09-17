@@ -1,0 +1,6 @@
+C:\Users\alici\source\repos\TiendaGit\Entidades\bin\Debug\Entidades.dll
+C:\Users\alici\source\repos\TiendaGit\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alici\source\repos\TiendaGit\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\alici\source\repos\TiendaGit\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alici\source\repos\TiendaGit\Entidades\obj\Debug\Entidades.dll
+C:\Users\alici\source\repos\TiendaGit\Entidades\obj\Debug\Entidades.pdb
